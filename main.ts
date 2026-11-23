@@ -4,7 +4,7 @@ import { join } from "node:path";
 import process from "node:process";
 
 // The entry: one line, kept exactly as written.
-const ENTRY = "My agent force-pushed an apology.";
+const ENTRY = "The demo crashed, so my agent force-pushed an apology to main.";
 
 const MAX_CODE_POINTS = 280;
 const SHOW_FLAG = "--show";
